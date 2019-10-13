@@ -1,16 +1,17 @@
-# busca_cep
+# Search Zip code
 
-A new Flutter project.
+Building Flutter App consuming [zip code API](https://viacep.com.br/) from brazil using Dio.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
 
-A few resources to get you started if this is your first Flutter project:
+### Created & Maintained By
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Rogerio Sobrinho](https://github.com/RogerioSobrinho)
+([Insta](https://www.instagram.com/rogerioa.sobrinho))
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
